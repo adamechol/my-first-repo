@@ -1,2 +1,2 @@
 # my-first-repo
-My First Repository for Learning Git Commands.
+Hi, I am Adam, Welcome to my First Repository for Learning Git Commands.
